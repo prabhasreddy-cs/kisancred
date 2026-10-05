@@ -1,0 +1,6 @@
+{
+  "name": "KisanCred - Agricultural Credit Ecosystem",
+  "description": "Transparent digital credit platform transforming verified agricultural performance into trusted financial identity for smallholder farmers and FPO officers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
